@@ -1,2 +1,4 @@
-# Retail-Industry-DataScience-Internship
-Retail Industry Data Science Internship Project - Week 1 EDA
+## 🚀 Live Demo
+**Website:** https://retail-sales-predictor.streamlit.app
+
+Click the link to test the model. Enter customer details in the sidebar and click "Predict Total Sales".
